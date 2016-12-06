@@ -7,3 +7,14 @@
 //
 
 import Foundation
+class Contacts {
+    let firstName: String
+    let lastName: String
+    let email: String
+    
+    init(firstName: String, lastName: String, email: String) {
+        self.firstName = firstName
+        self.lastName = lastName
+        self.email = email
+    }
+}
