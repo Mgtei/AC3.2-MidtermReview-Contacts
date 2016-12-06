@@ -14,6 +14,7 @@
 		28EB0BA61DF7264C0029DC88 /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EB0BA51DF7264C0029DC88 /* ContactsTableViewController.swift */; };
 		28EB0BA81DF726830029DC88 /* ContactsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EB0BA71DF726830029DC88 /* ContactsTableViewCell.swift */; };
 		28EB0BAA1DF7280C0029DC88 /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EB0BA91DF7280C0029DC88 /* Contacts.swift */; };
+		28EB0BAC1DF72B9F0029DC88 /* ApiRequestManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EB0BAB1DF72B9F0029DC88 /* ApiRequestManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		28EB0BA51DF7264C0029DC88 /* ContactsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
 		28EB0BA71DF726830029DC88 /* ContactsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactsTableViewCell.swift; sourceTree = "<group>"; };
 		28EB0BA91DF7280C0029DC88 /* Contacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
+		28EB0BAB1DF72B9F0029DC88 /* ApiRequestManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiRequestManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				28EB0BA71DF726830029DC88 /* ContactsTableViewCell.swift */,
 				28EB0BA51DF7264C0029DC88 /* ContactsTableViewController.swift */,
 				28EB0BA91DF7280C0029DC88 /* Contacts.swift */,
+				28EB0BAB1DF72B9F0029DC88 /* ApiRequestManager.swift */,
 				28EB0B9A1DF725D60029DC88 /* Assets.xcassets */,
 				28EB0B9C1DF725D60029DC88 /* LaunchScreen.storyboard */,
 				28EB0B9F1DF725D60029DC88 /* Info.plist */,
@@ -144,6 +147,7 @@
 			files = (
 				28EB0BAA1DF7280C0029DC88 /* Contacts.swift in Sources */,
 				28EB0BA61DF7264C0029DC88 /* ContactsTableViewController.swift in Sources */,
+				28EB0BAC1DF72B9F0029DC88 /* ApiRequestManager.swift in Sources */,
 				28EB0B941DF725D50029DC88 /* AppDelegate.swift in Sources */,
 				28EB0BA81DF726830029DC88 /* ContactsTableViewCell.swift in Sources */,
 			);
